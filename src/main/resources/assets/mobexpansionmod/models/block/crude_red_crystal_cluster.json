@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mobexpansionmod:block/crude_red_crystal_cluster"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item.mobexpansionmod.blank_crystal": "Blank Crystal",
+  "item.mobexpansionmod.red_crystal": "Red Crystal",
+
+  "block.mobexpansionmod.crude_red_crystal_cluster": "Crude Red Crystal Cluster",
+
+  "itemGroup.mobexpansionresources": "Mob Expansion Resources",
+  "itemGroup.mobexpansionblocks": "Mob Expansion Blocks"
+}
